@@ -1,0 +1,110 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Balaclava Navy",
+      "description": "Комфортная и функциональная балаклава для сноубординга и горных лыж из 100% синтетического флиса",
+      "price": "1290",
+      "quantity": 5,
+      "image": "products_images/Balaclava_Navy_Fleece_04-01.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "Balaclavas Pack",
+      "description": "Комплект из трех балаклав в лаконичных цветах",
+      "price": "3990",
+      "quantity": 5,
+      "image": "products_images/Balaclavas_Pack_00-01.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Coach Jacket True Black",
+      "description": "Утепленная сноубордическая куртка из мембранной ткани",
+      "price": "5790",
+      "quantity": 5,
+      "image": "products_images/Coach_Jacket_True_Black_W20-21_00-01.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "Balaclava Black",
+      "description": "Комфортная и функциональная балаклава для сноубординга и горных лыж из 100% синтетического флиса",
+      "price": "1290",
+      "quantity": 5,
+      "image": "products_images/Balaclava_Black_W20-21_03-01.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Balaclava Light Grey",
+      "description": "Комфортная и функциональная балаклава для сноубординга и горных лыж из 100% синтетического флиса",
+      "price": "1290",
+      "quantity": 5,
+      "image": "products_images/Balaclava_Light_Grey_W20-21_02-01.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "Balaclava Khaki",
+      "description": "Комфортная и функциональная балаклава для сноубординга и горных лыж из 100% синтетического флиса",
+      "price": "1290",
+      "quantity": 5,
+      "image": "products_images/Balaclava_Khaki_Fleece_00-01.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "name": "Facemask Black",
+      "description": "Универсальная маска-подшлемник из черного гипоаллергенного флиса",
+      "price": "790",
+      "quantity": 5,
+      "image": "products_images/Facemask_W20-21_00-01.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "name": "Balaclava Grey",
+      "description": "Комфортная и функциональная балаклава для сноубординга и горных лыж из 100% синтетического флиса",
+      "price": "1290",
+      "quantity": 5,
+      "image": "products_images/Balaclava_Grey_Fleece_00-01.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "name": "Neckgator Peach",
+      "description": "Теплый гейтор для сноубординга и горных лыж из плотного 100% синтетического флиса",
+      "price": "890",
+      "quantity": 5,
+      "image": "products_images/Neckwarmer_Peach_Fleece_01-01.jpg",
+      "category": 3
+    }
+  }
+]

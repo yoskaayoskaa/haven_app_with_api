@@ -1,0 +1,26 @@
+[
+  {
+    "model": "products.productcategory",
+    "pk": 1,
+    "fields": {
+      "name": "Балаклавы",
+      "description": "Балаклавы для сноуборда"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 2,
+    "fields": {
+      "name": "Куртки",
+      "description": "Куртки для сноуборда"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 3,
+    "fields": {
+      "name": "Гейторы",
+      "description": "Гейторы для сноуборда"
+    }
+  }
+]
